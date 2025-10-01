@@ -97,3 +97,12 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Ignore Unity-generated folders in subfolders
+workpls/[Ll]ibrary/
+workpls/[Tt]emp/
+workpls/[Oo]bj/
+workpls/[Bb]uild/
+workpls/[Bb]uilds/
+workpls/[Ll]ogs/
+workpls/[Uu]serSettings/
